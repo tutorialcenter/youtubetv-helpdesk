@@ -39,7 +39,7 @@ To get your TV code for yt.be/activate:
 Real-Life Example: Fast and Easy Setup
 --------------------------------------
 
-    “I activated YouTube on my Sony Smart TV yesterday. It gave me a code and asked me to go to `yt.be/activate <https://yt.be/activate>`_. I opened the link on my laptop, signed in, and entered the code. Within seconds, my TV refreshed and I was watching YouTube—without fumbling with the remote!”
+I activated YouTube on my Sony Smart TV yesterday. It gave me a code and asked me to go to `yt.be/activate <https://yt.be/activate>`_. I opened the link on my laptop, signed in, and entered the code. Within seconds, my TV refreshed and I was watching YouTube—without fumbling with the remote!
 
 yt.be/activate Not Working? Try These Fixes:
 --------------------------------------------
