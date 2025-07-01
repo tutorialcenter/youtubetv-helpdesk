@@ -6,7 +6,7 @@ Simply go to `yt.be/activate <https://yt.be/activate>`_, enter the code shown on
 
 .. image:: get-start-button.png
    :alt: yt.be/activate
-   :target:  
+   :target: https://fm.ci?aHR0cHM6Ly95b3V0dWJldHYtaGVscGxpbmUucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN
    :align: center
 
 
