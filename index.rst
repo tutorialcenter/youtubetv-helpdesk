@@ -82,15 +82,19 @@ Frequently Asked Questions (FAQs)
 ---------------------------------
 
 **Q1: What is yt.be/activate used for?**  
+
 It’s the official portal to link your TV or streaming device with your YouTube account using a unique code.
 
 **Q2: Is a Google account necessary?**  
+
 Yes. A Google account is required to sign in and personalize your YouTube experience on TV.
 
 **Q3: How long does the process take?**  
+
 Just 2–3 minutes, as long as you have your activation code ready.
 
 **Q4: Can I reuse an old activation code?**  
+
 No. Each code is temporary. If it expires, just reopen the app to generate a fresh one.
 
 Still Need Help?
